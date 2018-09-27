@@ -7,4 +7,4 @@ Ingenieria en sistemas Computacionales"
 vimos un curso basico y ahora conocemos un poco de GitHub
 
 genial pudimos subir el repositorio a la web 
-se podra volvera subir o ver cambios
+se podra volvera subir o ver cambios?
